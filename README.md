@@ -26,7 +26,7 @@ I am passionate about **Internet of Things (IoT)** and love building connected d
 I love working on projects that involve **sensors**, **microcontrollers**
 
 ## 🧑‍💻 Languages & Tools:
-![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
+![Arduino](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrandslogos.com%2Fa%2Farduino-logo-1%2F&psig=AOvVaw1MBWWk6PwnyRzFp0T3cHDn&ust=1736002557967000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMj-29Dn2YoDFQAAAAAdAAAAABAE)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
