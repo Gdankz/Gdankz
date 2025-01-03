@@ -34,4 +34,4 @@ I love working on projects that involve **sensors**, **microcontrollers**
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gdankz)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gdankz)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gdankz&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
