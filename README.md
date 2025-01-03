@@ -28,7 +28,7 @@ I love working on projects that involve **sensors**, **microcontrollers**
 ## 🧑‍💻 Languages & Tools:
 <div style="text-align: center;">
   <a href="https://www.arduino.cc/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Arduino_Logo.svg/600px-Arduino_Logo.svg.png" alt="Arduino Logo" />
+    <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" alt="Arduino Logo" />
   </a>
 </div>
 
@@ -53,15 +53,12 @@ I love working on projects that involve **sensors**, **microcontrollers**
 
 
 
-<div style="text-align: center;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Gdankz" alt="Anurag's GitHub stats" />
-  </a>
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gdankz" alt="Anurag's GitHub stats" />
+</a>
 
-<div style="text-align: center;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gdankz&layout=pie" alt="Top Langs" />
-  </a>
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gdankz&layout=pie" alt="Top Langs" />
+</a>
+
 
