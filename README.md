@@ -15,7 +15,7 @@ I am passionate about **Internet of Things (IoT)** and love building connected d
 - **Data Science**: **Jupyter Notebooks**, Pandas, Matplotlib
 
 ## 📫 How to reach me:
-- Email: [gabrielbayu03@gmail.co](mailto:gabrielbayu03@gmail.com)
+- Email: [gabrielbayu03@gmail.com](mailto:gabrielbayu03@gmail.com)
 - LinkedIn: [Gabriel Bayu](https://www.linkedin.com/in/gabriel-bayu/)
 
 ## 📂 Check out some of my IoT projects:
