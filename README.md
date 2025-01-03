@@ -26,30 +26,10 @@ I am passionate about **Internet of Things (IoT)** and love building connected d
 I love working on projects that involve **sensors**, **microcontrollers**
 
 ## 🧑‍💻 Languages & Tools:
-<div style="text-align: center;">
-  <a href="https://www.arduino.cc/">
-    <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" alt="Arduino Logo" />
-  </a>
-</div>
-
-<div style="text-align: center;">
-  <a href="https://isocpp.org/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/500px-ISO_C%2B%2B_Logo.svg.png" alt="C++ Logo" />
-  </a>
-</div>
-
-<div style="text-align: center;">
-  <a href="https://www.python.org/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" />
-  </a>
-</div>
-
-<div style="text-align: center;">
-  <a href="https://jupyter.org/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="Jupyter Logo" />
-  </a>
-</div>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino Logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python Logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter Logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ Logo" />
 
 
 
