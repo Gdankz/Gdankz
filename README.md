@@ -26,11 +26,12 @@ I am passionate about **Internet of Things (IoT)** and love building connected d
 I love working on projects that involve **sensors**, **microcontrollers**
 
 ## 🧑‍💻 Languages & Tools:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino Logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python Logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter Logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ Logo" />
-
+<div style="text-align: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino Logo" style="display: inline-block;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python Logo" style="display: inline-block;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter Logo" style="display: inline-block;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ Logo" style="display: inline-block;" />
+</div>
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
