@@ -26,12 +26,42 @@ I am passionate about **Internet of Things (IoT)** and love building connected d
 I love working on projects that involve **sensors**, **microcontrollers**
 
 ## 🧑‍💻 Languages & Tools:
-![Arduino Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Arduino_Logo.svg/600px-Arduino_Logo.svg.png)
-![C++ Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/500px-ISO_C%2B%2B_Logo.svg.png)
-![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
-![Jupyter Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png)
+<div style="text-align: center;">
+  <a href="https://www.arduino.cc/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Arduino_Logo.svg/600px-Arduino_Logo.svg.png" alt="Arduino Logo" />
+  </a>
+</div>
+
+<div style="text-align: center;">
+  <a href="https://isocpp.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/500px-ISO_C%2B%2B_Logo.svg.png" alt="C++ Logo" />
+  </a>
+</div>
+
+<div style="text-align: center;">
+  <a href="https://www.python.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" />
+  </a>
+</div>
+
+<div style="text-align: center;">
+  <a href="https://jupyter.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="Jupyter Logo" />
+  </a>
+</div>
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gdankz)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gdankz&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
+<div style="text-align: center;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Gdankz" alt="Anurag's GitHub stats" />
+  </a>
+</div>
+
+<div style="text-align: center;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gdankz&layout=pie" alt="Top Langs" />
+  </a>
+</div>
+
