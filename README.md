@@ -9,15 +9,14 @@ I am passionate about **Internet of Things (IoT)** and love building connected d
 - **Hardware**: Working with platforms like **Arduino** and **Raspberry Pi** to prototype and deploy solutions.
 
 ## 🛠️ Technologies & Tools:
-- **Frontend**: HTML, CSS, JavaScript (for IoT dashboard development)
 - **Backend**: Python, Flask (for controlling IoT devices)
 - **Embedded Systems**: Arduino, ESP32, Raspberry Pi
 - **Languages**: **C++**, **Python**
 - **Data Science**: **Jupyter Notebooks**, Pandas, Matplotlib
 
 ## 📫 How to reach me:
-- Email: [gabrielbayu03@gmail.com](mailto:gabrielbayu03@gmail.com)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/gabriel-bayu/)
+- Email: [gabrielbayu03@gmail.co](mailto:gabrielbayu03@gmail.com)
+- LinkedIn: [Gabriel Bayu](https://www.linkedin.com/in/gabriel-bayu/)
 
 ## 📂 Check out some of my IoT projects:
 - [Project 1: Motorcycle Counter Parking](https://github.com/Gdankz/Motorcycle-Counter.git)
