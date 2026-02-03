@@ -22,12 +22,3 @@ Passionate about **Internet of Things (IoT)** and love building connected device
 
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gdankz" alt="Anurag's GitHub stats" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gdankz&layout=pie" alt="Top Langs" />
-</a>
-
-
